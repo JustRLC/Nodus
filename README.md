@@ -1,5 +1,5 @@
 # Nodus
-Nodus is a Discord bot created use of Discord.js's framework - It has a ticket system as well as a few fun commands. It is functional but it will need a lot of work. Open for anyone to use.
+Nodus is a Discord bot created with the use of Discord.js's framework - It has a ticket system as well as a few fun commands. It is functional but it will need a lot of work. Open for anyone to use.
 
 ## Requirements
 
