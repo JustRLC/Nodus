@@ -37,7 +37,7 @@ Nodus is a Discord bot created with the use of Discord.js's framework - It has a
 
 To install, open up your terminal and type in the following.
 ```
-git clone https://github.com/justrlc/nodus.git; cd nodus; npm i
+git clone https://github.com/justrlc/nodus.git ; cd nodus; npm i
 ```
 
 ### Configuration
