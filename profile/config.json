@@ -1,0 +1,20 @@
+{
+  "token": "",
+  "prefix": "?",
+  "name": "Nodus",
+  "guildID": "",
+  "supportRole": "",
+  "Category": "",
+  "logChannel": "",
+  "colour": "#9b8eff",
+  "playing": "your every move (!help)",
+  "activityType": "WATCHING",
+  "status": "ONLINE",
+  "weather": "019f1013baa27aa703c3adf0da2c3989",
+  "useEmbeds": true,
+  "logDMs": false,
+  "cooldown": 3,
+  "tagHereOnly": false,
+  "ticketText": "Thank you for reaching out to our support team.\nA member of staff will come to assist you shortly. Please describe the issue in detail and explain what you have done to resolve the issue so far.",
+  "debugLevel": 0
+}
